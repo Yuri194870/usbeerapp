@@ -1,0 +1,13 @@
+numpy
+plotly.graph_objects
+seaborn
+pandas
+matplotlib.pyplot
+plotly.express
+requests
+pandas
+streamlit
+json
+streamlit_folium
+geopandas
+folium
